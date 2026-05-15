@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{DBBA610D-51D1-4F0F-8B3E-FDBD1A1B8E76}|examenInsertEF7\\examenInsertEF7.csproj|solutionrelative:exameninsertef7\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DBBA610D-51D1-4F0F-8B3E-FDBD1A1B8E76}|examenInsertEF7\\examenInsertEF7.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertef7\\exameninsertef7\\exameninsertef7\\viewmodel\\empleadovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBA610D-51D1-4F0F-8B3E-FDBD1A1B8E76}|examenInsertEF7\\examenInsertEF7.csproj|solutionrelative:exameninsertef7\\viewmodel\\empleadovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DBBA610D-51D1-4F0F-8B3E-FDBD1A1B8E76}|examenInsertEF7\\examenInsertEF7.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertef7\\exameninsertef7\\exameninsertef7\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBBA610D-51D1-4F0F-8B3E-FDBD1A1B8E76}|examenInsertEF7\\examenInsertEF7.csproj|solutionrelative:exameninsertef7\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EmpleadoVM.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEF7\\examenInsertEF7\\examenInsertEF7\\ViewModel\\EmpleadoVM.cs",
+              "RelativeDocumentMoniker": "examenInsertEF7\\ViewModel\\EmpleadoVM.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEF7\\examenInsertEF7\\examenInsertEF7\\ViewModel\\EmpleadoVM.cs",
+              "RelativeToolTip": "examenInsertEF7\\ViewModel\\EmpleadoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T00:56:55.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Departamento.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEF7\\examenInsertEF7\\examenInsertEF7\\Models\\Departamento.cs",
               "RelativeDocumentMoniker": "examenInsertEF7\\Models\\Departamento.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "examenInsertEF7\\Models\\Departamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T23:40:43.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T23:40:43.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEF7\\examenInsertEF7\\examenInsertEF7\\Program.cs",
               "RelativeDocumentMoniker": "examenInsertEF7\\Program.cs",
@@ -51,8 +67,7 @@
               "RelativeToolTip": "examenInsertEF7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T23:34:45.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T23:34:45.044Z"
             },
             {
               "$type": "Document",
@@ -62,7 +77,7 @@
               "RelativeDocumentMoniker": "examenInsertEF7\\Views\\Empleado\\Index.cshtml",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEF7\\examenInsertEF7\\examenInsertEF7\\Views\\Empleado\\Index.cshtml",
               "RelativeToolTip": "examenInsertEF7\\Views\\Empleado\\Index.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-28T23:26:51.801Z",
               "EditorCaption": ""
@@ -75,7 +90,7 @@
               "RelativeDocumentMoniker": "examenInsertEF7\\Controllers\\EmpleadoController.cs",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEF7\\examenInsertEF7\\examenInsertEF7\\Controllers\\EmpleadoController.cs",
               "RelativeToolTip": "examenInsertEF7\\Controllers\\EmpleadoController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwA8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T22:54:09.347Z",
               "EditorCaption": ""

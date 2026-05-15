@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examenInsertEF7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d07874639315740abb91b54f43f02253855ec52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f0f5d3bd7c2dbca5acf145b92aafd3329d49f92")]
 [assembly: System.Reflection.AssemblyProductAttribute("examenInsertEF7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examenInsertEF7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
